@@ -1,3 +1,9 @@
-import React from "react";
+import React from 'react'
 
-export "box";
+const box = () => {
+  return (
+    <div className="">box</div>
+  )
+}
+
+export default box
