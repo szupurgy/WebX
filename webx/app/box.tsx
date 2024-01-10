@@ -1,9 +1,11 @@
 import React from 'react'
 
-const box = () => {
+const SajatDoboz = () => {
   return (
-    <div className="">box</div>
+    <div className="bg-black w-64 h-64">
+      <h1 className="text-cyan-600">WEBX</h1>
+    </div>
   )
 }
 
-export default box
+export default SajatDoboz
